@@ -1,0 +1,1 @@
+#define ENABLE_AUTO_GUILD_WAR_SYSTEM			//Otomatik lonca savaþ sistemi. //Coding KioShima
